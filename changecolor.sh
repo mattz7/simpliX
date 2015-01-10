@@ -23,7 +23,7 @@ done
 cp -f "$basedir"/gtk-2.0/images/checkradiochecked.gif "$basedir"/gtk-2.0/images/checkradioinconsistentchecked.gif
 cp -f "$basedir"/gtk-2.0/images/checkradiochecked.gif "$basedir"/gtk-2.0/images/checkradiocheckedprelight.gif
 cp -f "$basedir"/gtk-2.0/images/checkradiochecked.gif "$basedir"/gtk-2.0/images/checkradioinconsistentprelight.gif
-cd "$basedir"/Extras/GTK3
+cd "$basedir"/extras/GTK3
 for folder in `find . -maxdepth 1 -type d | grep GTK-3.`; do 
 	cd "$folder"/simpliX/gtk-3.0/images
 	cp -f checkradiochecked.gif checkradioinconsistentchecked.gif
