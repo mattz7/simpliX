@@ -1,17 +1,16 @@
-| ![alt text](https://raw.githubusercontent.com/sixsixfive/themes/master/simpliX/Extras/prev.png "Preview") | ![alt text](https://raw.githubusercontent.com/sixsixfive/themes/master/simpliX/Extras/gtk.png "GTK") |
-| ------------- |:-------------:|
+| ![alt text](https://raw.githubusercontent.com/sixsixfive/simpliX/master/extras/prev.png "Preview") |
 
-A very bright and simple (but daily useable) theme inspired by Elegant Brit
+A very bright and simple (but daily useable) theme inspired by Elegant Brit.
 
 ##### Themes available:
 
 * GTK2 - depends on the gtk2 pixbuf & mist engines
 * GTK3 - totally unsupported
-* Xfwm4 (will inherit the GTK2 theme)
-* Marco/Metacity (will inherit the GTK2 theme)
+* Xfwm4
+* Marco/Metacity
 * Openbox
-* Xfce Notify (will inherit the GTK2 theme)
-* MPlayer (will inherit the GTK2 theme)
+* Xfce Notify
+* MPlayer
 * KDM
 * SLiM
 
@@ -21,7 +20,7 @@ A very bright and simple (but daily useable) theme inspired by Elegant Brit
 
 Enter the theme dir: **`cd ~/.themes`**
 
-Get the theme: **`svn co https://github.com/sixsixfive/themes/trunk/simpliX simpliX`**
+Get the theme: **`svn co https://github.com/sixsixfive/simpliX/trunk simpliX`**
 
 **NOTE:**
 You should now be able to set the GTK2, Xfwm, Xfce-Notify, Marco and Openbox themes in your
